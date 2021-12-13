@@ -8,6 +8,19 @@ Here, we will continue to collect the existing open-source RGBT tracking work
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 
 ## More code will gradually open source
-*MANet* | *DAFNet* | *CAT* | *MANet_PP* | *DMCNet* | *APFNet*... 
+*MANet* | *MANet_PP* | *DMCNet* |...
 
 code link：https://github.com/Alexadlu
+
+*DAFNet*
+
+code link：https://github.com/mjt1312/DAFNet
+
+*APFNet*
+
+code link：https://github.com/yangmengmeng1997/APFNet
+
+*CAT*
+
+code link：cooming soon...
+
