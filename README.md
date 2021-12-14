@@ -1,5 +1,5 @@
 # Source code
-Here, we will continue to collect the existing open-source RGBT tracking work
+Here, we present open-source works published from the MMIC group.
 
 
 ## RGBT Tracking code
