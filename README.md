@@ -1,4 +1,4 @@
-# RGBT-Trakcing-code
+# RGBT-Tracking-code
 Here, we will continue to collect the existing open-source RGBT tracking work
 
 
