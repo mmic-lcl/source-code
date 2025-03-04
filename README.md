@@ -1,23 +1,51 @@
 # Source code
-Here, we present open-source works published from the MMIC group.
+In this repository, we will continuously release the source code related to the work of the MMIC group.
 
-## RGBT Tracking code
+## RGBT Tracking
+[MANet](https://github.com/Alexadlu/MANet)
 
-C. L. Li, A. Lu, A. H. Zheng, Z. Tu and J. Tang, "Multi-Adapter RGBT Tracking," 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW),2019,[[pdf]](https://ieeexplore.ieee.org/document/9022360)[[code]](https://github.com/Alexadlu)
+[DAFNet](https://github.com/mjt1312/DAFNet)
 
-A. Lu, C. Li, Y. Yan, J. Tang and B. Luo, "RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss," in IEEE Transactions on Image Processing, 2021,[[pdf]](https://ieeexplore.ieee.org/document/9454275)[[code]](https://github.com/Alexadlu)
+[CAT](https://github.com/liulei970507/CAT)
 
-DAFNet
-code link：https://github.com/mjt1312/DAFNet
+[MANet++](https://github.com/Alexadlu/MANet_pp)
 
-APFNet 
-code link：https://github.com/yangmengmeng1997/APFNet
+[DMCNet](https://github.com/Alexadlu/DMCNet)
 
-CAT/CAT++/QAT/MAFNet/ProtoTrack could be found at https://github.com/liulei970507.
+[APFNet](https://github.com/yangmengmeng1997/APFNet)
 
-| Open-source code link |[MFG](https://github.com/hyzcn/MFG_RGBT_Tracking_PyTorch)| [mfDiMP](https://github.com/zhanglichao/end2end_rgbt_tracking) |[ADRNet](https://github.com/zhang-pengyu/ADRNet) |[JMMAC](https://github.com/zhang-pengyu/JMMAC)|...|
-| ------------- | ------------- | ------------- | ------------- |------------- |------------- |
+[QAT](https://github.com/liulei970507/QAT)
 
+[CAT++](https://github.com/liulei970507/CAT-TIP)
 
-## Tiny Object Tracking code
-cooming soon...
+[IPL](https://github.com/Alexadlu/Modality-missing-RGBT-Tracking)
+
+## Cross-modal Object Tracking
+[MAFNet](https://github.com/liulei970507/MAFNet)
+
+[ProtoTrack](https://github.com/liulei970507/ProtoTrack)
+
+## Nighttime Person Re-Identification
+[IDF](https://github.com/Alexadlu/IDF)
+
+[CENet](https://github.com/Alexadlu/CENet)
+
+## Pedestrian Attribute Recognition
+[VFT](https://github.com/Event-AHU/VTF_PAR)
+
+[PromptPAR](https://github.com/Event-AHU/OpenPAR/tree/main/PromptPAR)
+
+[SequencePAR](https://github.com/Event-AHU/OpenPAR/tree/main/SequencePAR)
+
+[MSP60K_Benchmark_Dataset](https://github.com/Event-AHU/OpenPAR/tree/main/MSP60K_Benchmark_Dataset)
+
+## Chest X-ray Anatomy Segmentation
+[SCNet](https://github.com/XWei98/SCNet)
+
+[LTSeg](https://github.com/XWei98/LTSeg)
+
+# Vehicle Foundation Model
+[VehicleMAE](https://github.com/Event-AHU/VehicleMAE)
+
+[VFM-Det](https://github.com/Event-AHU/VFM-Det)
+
