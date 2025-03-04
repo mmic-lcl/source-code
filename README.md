@@ -44,7 +44,7 @@ In this repository, we will continuously release the source code related to the 
 
 [LTSeg](https://github.com/XWei98/LTSeg)
 
-# Vehicle Foundation Model
+## Vehicle Foundation Model
 [VehicleMAE](https://github.com/Event-AHU/VehicleMAE)
 
 [VFM-Det](https://github.com/Event-AHU/VFM-Det)
